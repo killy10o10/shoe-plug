@@ -1,5 +1,3 @@
-# Shoe Plug
-
 # 👟 Shoe Plug 👞
 
 ## Overview
